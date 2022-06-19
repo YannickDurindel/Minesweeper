@@ -12,3 +12,5 @@ So my code is then managing both back-end and front-end
    So that it creates a whole grid of pictures with bonb and the numbers around, like a casual minesweeper really.
    For now I have a problem I don't know how to fix : The first time you click on a square, it unleash all the empty one and the first line of number. 
    And that I don't know how to do it... I have an idea that I will code soon with some while loop, but nothing promissing :/
+
+I also have to say that for some codes, I have just copied something from the net without even modifying it, it was mostly for testing the tkinter module.
